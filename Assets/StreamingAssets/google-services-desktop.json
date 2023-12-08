@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "992329618500",
+    "firebase_url": "https://hots-concept-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hots-concept",
+    "storage_bucket": "hots-concept.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992329618500:android:2fad9296db28f744509811",
+        "android_client_info": {
+          "package_name": "com.GaweDeweStudio.HotsConcept"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkxQI9OeuwzL7EepXjirQZjFygFRVnKIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
